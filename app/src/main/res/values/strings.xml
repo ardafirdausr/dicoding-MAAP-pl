@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Programming Language</string>
+    <string name="_name">Name</string>
+    <string name="share_rate">Share Rate</string>
+    <string name="description">Description</string>
+    <string name="dummy">This is dummy</string>
+
+    <!--Activities title-->
+    <string name="programming_language">Programming Language</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+
+    <!--Values-->
+    <string name="arda">Arda Firdaus Ramadhan</string>
+    <string name="arda_email">ardafirdausr@gmail.com</string>
+</resources>
